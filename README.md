@@ -1,1 +1,1 @@
-# Simple scraping to get cryptos names and price in coindesk.com with BeautifulSoup
+# Simple scraping to get cryptos names and price from coindesk.com with BeautifulSoup
